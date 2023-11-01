@@ -1,0 +1,7 @@
+{
+  "name": "dodge-ball",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
