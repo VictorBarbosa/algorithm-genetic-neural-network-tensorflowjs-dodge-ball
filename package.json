@@ -10,7 +10,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "lint": "ng lint",
-    "git-publish": "ng build -c --output-path docs --base-href /ObsceneGestureDetector/ && git add . && git commit -m publish && git push",
+    "git-publish": "ng build -c --output-path docs --base-href /algorithm-genetic-neural-network-tensorflowjs-dodge-ball/ && git add . && git commit -m publish && git push",
     "iphone":"ionic  capacitor run ios --external --livereload   --watch     --open"
   },
   "private": true,
